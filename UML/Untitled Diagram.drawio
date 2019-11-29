@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-11-29T09:39:19.217Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="p9SQb9Or-90zGshmnPTq" version="12.3.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-29T10:01:14.312Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="CG6fTo1wRdFgUJeiGTdG" version="12.3.3" type="github" pages="1">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="946" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -58,9 +58,6 @@
         </mxCell>
         <mxCell id="IUKXxloIUVSeZwhSzlI9-34" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;glass=0;comic=0;strokeWidth=1;fontFamily=Verdana;" vertex="1" parent="7baba1c4bc27f4b0-5">
           <mxGeometry x="55" y="560" width="10" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="7baba1c4bc27f4b0-6" value=":Test" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;shadow=1;comic=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;glass=1;" parent="1" vertex="1">
-          <mxGeometry x="960" y="80" width="100" height="770" as="geometry"/>
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-8" value="User" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;shadow=1;comic=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;glass=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="80" width="120" height="770" as="geometry"/>
@@ -155,9 +152,9 @@
           <mxGeometry x="785" y="490" width="80" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="IUKXxloIUVSeZwhSzlI9-49" value="资源中心" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=0;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="785" y="610" width="80" height="20" as="geometry"/>
+          <mxGeometry x="785" y="650" width="80" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="IUKXxloIUVSeZwhSzlI9-58" value="注：开发者需要先去微信开放平台注册DajieApp信息，获得AppId、AppSecret。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=0;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="IUKXxloIUVSeZwhSzlI9-58" value="注：开发者需要先去微信开放平台注册DajieApp信息，获得appId、secret等信息。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=0;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="80" y="30" width="760" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="IUKXxloIUVSeZwhSzlI9-66" value="15：登录成功（已匹配账号）" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=6;fontFamily=Verdana;exitX=0;exitY=0.997;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
