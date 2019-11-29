@@ -1,0 +1,172 @@
+<mxfile host="www.draw.io" modified="2019-11-29T09:39:19.217Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="p9SQb9Or-90zGshmnPTq" version="12.3.3" type="github" pages="1">
+  <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
+    <mxGraphModel dx="946" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="7baba1c4bc27f4b0-2" value="DajieApp" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;shadow=1;comic=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;glass=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="80" width="120" height="770" as="geometry"/>
+        </mxCell>
+        <mxCell id="IUKXxloIUVSeZwhSzlI9-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;glass=0;comic=0;strokeWidth=1;fontFamily=Verdana;" vertex="1" parent="7baba1c4bc27f4b0-2">
+          <mxGeometry x="55" y="80" width="10" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IUKXxloIUVSeZwhSzlI9-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;glass=0;comic=0;strokeWidth=1;fontFamily=Verdana;" vertex="1" parent="7baba1c4bc27f4b0-2">
+          <mxGeometry x="55" y="320" width="10" height="400" as="geometry"/>
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-3" value="DajieServer" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;shadow=1;comic=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;glass=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="80" width="120" height="770" as="geometry"/>
+        </mxCell>
+        <mxCell id="IUKXxloIUVSeZwhSzlI9-18" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;glass=0;comic=0;strokeWidth=1;fontFamily=Verdana;" vertex="1" parent="7baba1c4bc27f4b0-3">
+          <mxGeometry x="55" y="360" width="10" height="360" as="geometry"/>
+        </mxCell>
+        <mxCell id="IUKXxloIUVSeZwhSzlI9-63" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;glass=0;comic=0;strokeWidth=1;fontFamily=Verdana;" vertex="1" parent="7baba1c4bc27f4b0-3">
+          <mxGeometry x="60" y="480" width="10" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IUKXxloIUVSeZwhSzlI9-64" value="11：用户匹配" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;strokeColor=#000000;fontFamily=Verdana;" edge="1" target="IUKXxloIUVSeZwhSzlI9-63" parent="7baba1c4bc27f4b0-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="65" y="460" as="sourcePoint"/>
+            <Array as="points">
+              <mxPoint x="90" y="460"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IUKXxloIUVSeZwhSzlI9-73" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;glass=0;comic=0;strokeWidth=1;fontFamily=Verdana;" vertex="1" parent="7baba1c4bc27f4b0-3">
+          <mxGeometry x="60" y="640" width="10" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IUKXxloIUVSeZwhSzlI9-74" value="14：创建账号，关联Wx信息" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;strokeColor=#000000;fontFamily=Verdana;" edge="1" target="IUKXxloIUVSeZwhSzlI9-73" parent="7baba1c4bc27f4b0-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="65" y="620" as="sourcePoint"/>
+            <Array as="points">
+              <mxPoint x="90" y="620"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-4" value="WxApp" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;shadow=1;comic=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;glass=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="80" width="120" height="770" as="geometry"/>
+        </mxCell>
+        <mxCell id="IUKXxloIUVSeZwhSzlI9-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;glass=0;comic=0;strokeWidth=1;fontFamily=Verdana;" vertex="1" parent="7baba1c4bc27f4b0-4">
+          <mxGeometry x="55" y="120" width="10" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-5" value="WxServer" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;shadow=1;comic=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;glass=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="80" width="120" height="770" as="geometry"/>
+        </mxCell>
+        <mxCell id="IUKXxloIUVSeZwhSzlI9-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;glass=0;comic=0;strokeWidth=1;fontFamily=Verdana;" vertex="1" parent="7baba1c4bc27f4b0-5">
+          <mxGeometry x="55" y="240" width="10" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IUKXxloIUVSeZwhSzlI9-22" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;glass=0;comic=0;strokeWidth=1;fontFamily=Verdana;" vertex="1" parent="7baba1c4bc27f4b0-5">
+          <mxGeometry x="55" y="400.5" width="10" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IUKXxloIUVSeZwhSzlI9-34" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;glass=0;comic=0;strokeWidth=1;fontFamily=Verdana;" vertex="1" parent="7baba1c4bc27f4b0-5">
+          <mxGeometry x="55" y="560" width="10" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-6" value=":Test" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;shadow=1;comic=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;glass=1;" parent="1" vertex="1">
+          <mxGeometry x="960" y="80" width="100" height="770" as="geometry"/>
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-8" value="User" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;shadow=1;comic=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="80" width="120" height="770" as="geometry"/>
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-8" vertex="1">
+          <mxGeometry x="55" y="80" width="10" height="640" as="geometry"/>
+        </mxCell>
+        <mxCell id="IUKXxloIUVSeZwhSzlI9-6" value="1：点击第三方登录" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=6;fontFamily=Verdana;endSize=6;startFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="145" y="160" as="sourcePoint"/>
+            <mxPoint x="295" y="160" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IUKXxloIUVSeZwhSzlI9-8" value="（appId）&lt;br&gt;2：调用sdk，唤起微信授权页面" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;fontFamily=Verdana;startFill=0;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="IUKXxloIUVSeZwhSzlI9-7" parent="1" source="IUKXxloIUVSeZwhSzlI9-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="210" as="sourcePoint"/>
+            <mxPoint x="610" y="200" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IUKXxloIUVSeZwhSzlI9-9" value="3：请示用户确认授权（展示第三方请求授权哪些功能）" style="html=1;verticalAlign=bottom;endArrow=open;fontFamily=Verdana;dashed=1;endFill=0;" edge="1" parent="1" target="7baba1c4bc27f4b0-9">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="616" y="239" as="sourcePoint"/>
+            <mxPoint x="150" y="240" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IUKXxloIUVSeZwhSzlI9-10" value="4：用户确认授权" style="html=1;verticalAlign=bottom;endArrow=block;fontFamily=Verdana;" edge="1" parent="1" target="IUKXxloIUVSeZwhSzlI9-7">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="147" y="280" as="sourcePoint"/>
+            <mxPoint x="580" y="319.5" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IUKXxloIUVSeZwhSzlI9-16" value="7：sdk接受回调，返回授权码" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=6;fontFamily=Verdana;" edge="1" parent="1" source="IUKXxloIUVSeZwhSzlI9-7" target="IUKXxloIUVSeZwhSzlI9-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="440" as="sourcePoint"/>
+            <mxPoint x="310" y="440" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IUKXxloIUVSeZwhSzlI9-14" value="（appId）&lt;br&gt;5：授权中心授权" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;fontFamily=Verdana;" edge="1" target="IUKXxloIUVSeZwhSzlI9-13" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="625" y="320" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IUKXxloIUVSeZwhSzlI9-15" value="code&lt;br&gt;6：返回授权码" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=6;fontFamily=Verdana;" edge="1" source="IUKXxloIUVSeZwhSzlI9-13" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="625" y="360" as="targetPoint"/>
+            <mxPoint x="770" y="380" as="sourcePoint"/>
+            <Array as="points">
+              <mxPoint x="760" y="360"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IUKXxloIUVSeZwhSzlI9-19" value="&lt;font style=&quot;font-size: 9px&quot;&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;&lt;span style=&quot;font-size: 9px&quot;&gt;（code）&lt;br style=&quot;font-size: 9px&quot;&gt;&lt;/span&gt;&lt;/font&gt;8：请求第三方登录&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;fontFamily=Verdana;entryX=-0.1;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" target="IUKXxloIUVSeZwhSzlI9-18" parent="1" source="IUKXxloIUVSeZwhSzlI9-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="440" as="sourcePoint"/>
+            <mxPoint x="440" y="490" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IUKXxloIUVSeZwhSzlI9-23" value="&lt;span style=&quot;font-size: 9px&quot;&gt;(appId，secret，code)&lt;/span&gt;&lt;br&gt;9：请求access_token等信息" style="html=1;verticalAlign=bottom;endArrow=block;fontFamily=Verdana;entryX=-0.133;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" target="IUKXxloIUVSeZwhSzlI9-22" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="465" y="480.18000000000006" as="sourcePoint"/>
+            <mxPoint x="770" y="480.5" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IUKXxloIUVSeZwhSzlI9-24" value="10：返回access_token，openid，unionid等信息" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;fontFamily=Verdana;dashed=1;exitX=0;exitY=0.975;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="IUKXxloIUVSeZwhSzlI9-22" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="465" y="519.5" as="targetPoint"/>
+            <mxPoint x="760" y="520.5" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IUKXxloIUVSeZwhSzlI9-35" value="（access_token，openid）&lt;br&gt;12：请求用户资源信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;fontFamily=Verdana;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="466" y="640" as="sourcePoint"/>
+            <mxPoint x="775" y="639.5" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IUKXxloIUVSeZwhSzlI9-36" value="13：返回用户name，avatar等资源信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;fontFamily=Verdana;entryX=1;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="IUKXxloIUVSeZwhSzlI9-34" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="465" y="680" as="targetPoint"/>
+            <mxPoint x="770" y="680.5" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IUKXxloIUVSeZwhSzlI9-20" value="15：登录成功（新关联账号）" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=6;fontFamily=Verdana;exitX=0;exitY=0.89;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="IUKXxloIUVSeZwhSzlI9-18" parent="1" target="IUKXxloIUVSeZwhSzlI9-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="303" y="799" as="targetPoint"/>
+            <mxPoint x="460" y="720" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IUKXxloIUVSeZwhSzlI9-47" value="授权中心" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=0;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="785" y="330" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="IUKXxloIUVSeZwhSzlI9-48" value="授权中心" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=0;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="785" y="490" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="IUKXxloIUVSeZwhSzlI9-49" value="资源中心" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=0;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="785" y="610" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="IUKXxloIUVSeZwhSzlI9-58" value="注：开发者需要先去微信开放平台注册DajieApp信息，获得AppId、AppSecret。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=0;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="80" y="30" width="760" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="IUKXxloIUVSeZwhSzlI9-66" value="15：登录成功（已匹配账号）" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=6;fontFamily=Verdana;exitX=0;exitY=0.997;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="305" y="600.5" as="targetPoint"/>
+            <mxPoint x="455" y="599.9000000000001" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
